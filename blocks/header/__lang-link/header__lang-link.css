@@ -10,7 +10,7 @@
   padding-left: 0;
 }
 
-@media screen and (max-width : 767px) {
+@media screen and (max-width: 767px) {
   .header__lang-link {
     padding-top: 14px;
     font-size: 18px;
