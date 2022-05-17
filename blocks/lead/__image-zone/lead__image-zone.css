@@ -1,0 +1,17 @@
+.lead__image-zone {
+  padding: 64px 0 0;
+  margin: 0;
+  font-size: 0; /*убирает ненужный пиксель*/
+}
+
+@media screen and (max-width: 1279px) {
+  .lead__image-zone {
+    padding-top: 56px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead__image-zone {
+    padding-top: 40px;
+  }
+}

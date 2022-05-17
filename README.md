@@ -5,6 +5,6 @@
 При написании работы были использованы технологии флекс-бокс вёрстки, структурирования по БЭМ,
 использованы HTML CSS, работа с figma.
 
-[Ссылка на проект](https://defion.github.io/russian-travel/index.html)
+[Ссылка на проект](https://defion.github.io/russian-travel/)
 
 _defion_
